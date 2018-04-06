@@ -1,0 +1,115 @@
+{
+  "user": [
+    {
+      "username": "xun",
+      "password": "xun"
+    }
+  ],
+  "savedArticles": [
+    {
+      "source": {
+        "id": "aftenposten",
+        "name": "Aftenposten"
+      },
+      "author": "",
+      "title": "Fem vogntog og varebil kolliderte på E16",
+      "description": "Én person er alvorlig skadet i ulykken.",
+      "url": "https://www.aftenposten.no/norge/i/kabp2k/Fem-vogntog-og-varebil-kolliderte-ved-Lardal",
+      "urlToImage": "http://www.aftenposten.no/public/metaicon-291x291.png",
+      "publishedAt": "2018-04-06T06:08:10.8576884Z"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "ABC News",
+      "title": "Father of alleged YouTube shooter apologizes: 'I can't believe it'",
+      "description": "The father of the woman who allegedly opened fire at YouTube's headquarters in Northern California this week told reporters how sorry he is in the wake of the shooting.",
+      "url": "http://abcnews.go.com/US/father-alleged-youtube-shooter-apologizes/story?id=54251729",
+      "urlToImage": "https://s.abcnews.com/images/US/youtube-shooter-father-press-kgo-ps-180405_hpMain_16x9_992.jpg",
+      "publishedAt": "2018-04-05T00:00:00Z"
+    }
+  ],
+  "articles": [
+    {
+      "source": {
+        "id": "aftenposten",
+        "name": "Aftenposten"
+      },
+      "author": "",
+      "title": "To store russetreff er avlyst",
+      "description": "Både «vrengefesten» og 16. mai-festen på Hellerudsletta på Romerike er avlyst, opplyser arrangøren. Årsak: De får ikke lenger leie området.",
+      "url": "https://www.aftenposten.no/osloby/i/Mgq6OB/Avlyser-to-av-Oslo-omradets-storste-russetreff",
+      "urlToImage": "https://ap.mnocdn.no/images/cd9d041e-b56c-4d57-be5b-2d48cf1192f4?fit=crop&q=80&w=1440",
+      "publishedAt": "2018-04-06T06:52:47.6795879Z"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Arrest warrant issued for Brazil ex-President Lula da Silva",
+      "description": "Brazil's former president has until Friday 20:00 GMT to turn himself in to start serving a 12-year sentence.",
+      "url": "http://www.aljazeera.com/news/2018/04/arrest-warrant-issued-brazil-president-lula-da-silva-180406055500235.html",
+      "urlToImage": "https://www.aljazeera.com/mritems/Images/2018/4/5/96424cd8d4b14ad2b4b41d7e7dded83c_18.jpg",
+      "publishedAt": "2018-04-06T06:45:00Z"
+    },
+    {
+      "source": {
+        "id": "le-monde",
+        "name": "Le Monde"
+      },
+      "author": "Elisabeth Pineau",
+      "title": "Coupe Davis : Fabio Fognini ou l’art de la pantomime",
+      "description": "Le numéro un italien, qui traîne une réputation de joueur talentueux mais fantasque, affronte Jérémy Chardy vendredi, dans un match qui a tout pour être électrique.",
+      "url": "http://www.lemonde.fr/tennis/article/2018/04/06/coupe-davis-fabio-fognini-ou-l-art-de-la-pantomime_5281433_1616659.html",
+      "urlToImage": "http://s1.lemde.fr/image/2018/04/06/644x322/5281428_3_59be_acte-i-scenes-1-3-et-5-contestation-de-la_2d504adf608033fa8dde126b7429a064.jpg",
+      "publishedAt": "2018-04-06T07:21:18Z"
+    },
+    {
+      "source": {
+        "id": "focus",
+        "name": "Focus"
+      },
+      "author": "FOCUS Online",
+      "title": "Trotz Frankfurt-Absage: Ottmar Hitzfeld: \"Kovac und der FC Bayern – das passt\"",
+      "description": "Der FC Bayern muss in Sachen Trainer Einfallsreichtum beweisen - auch, weil von Eintracht Frankfurts Trainer Niko Kovac bislang in der Öffentlichkeit negative Signale kommen. Bayerns Trainer-Legende Ottmar Hitzfeld wirbt trotzdem für Kovac als Lösung für die …",
+      "url": "https://www.focus.de/sport/wer-uebernimmt-in-muenchen-ottmar-hitzfeld-kovac-und-bayern-das-passt_id_8719975.html",
+      "urlToImage": "https://p5.focus.de/img/fotos/crop8720044/8822719351-w1200-h627-o-q75-p5/kovac-hitzfeld.jpg",
+      "publishedAt": "2018-04-06T05:52:02Z"
+    },
+    {
+      "source": {
+        "id": "aftenposten",
+        "name": "Aftenposten"
+      },
+      "author": "",
+      "title": "Sør-Koreas avsatte president Park Geun-hye dømt til 24 års fengsel",
+      "description": "Sør-Koreas avsatte president Park Geun-hye er dømt til 24 års fengsel for maktmisbruk og utpressing.",
+      "url": "https://www.aftenposten.no/verden/i/7lQm0B/Park-Geun-hye-domt-til-24-ar-i-fengsel",
+      "urlToImage": "https://ap.mnocdn.no/images/9b366107-7911-44be-aeab-61a26f2e9aed?fit=crop&q=80&w=1440",
+      "publishedAt": "2018-04-06T07:04:10Z"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": null,
+      "title": "Plane recalled from runway, jeweller held with gold stash - Times of India",
+      "description": "India News: The jeweller, Sanjay Kumar Agarwal, had boarded the flight using a ticket booked in the name of his son, who was simultaneously booked on an Emirates",
+      "url": "http://timesofindia.indiatimes.com/india/plane-recalled-from-runway-jeweller-held-with-gold-stash/articleshow/63649993.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-63650060,width-1070,height-580,imgsize-140573,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2018-04-06T14:18:56Z"
+    }
+  ],
+  "sources": [
+    "the-new-york-times",
+    "the-next-web",
+    "the-sport-bible",
+    "the-telegraph",
+    "the-times-of-india"
+  ]
+}

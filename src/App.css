@@ -1,0 +1,101 @@
+.App {
+  margin: 150px auto;
+  padding: 50px 25px;
+  width: 30%;
+  border: 1px solid #000;
+  background-color: #d3d3d3;
+  border-radius: 15px;
+}
+
+.visible {
+  display: block;
+}
+
+.hide {
+  display: none;
+}
+
+.error {
+  color: red;
+  padding: 10px 0;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #000;
+  color: #fff;
+}
+
+.footer p {
+  margin-bottom: 0;
+  padding: 7px;
+  text-align: center;
+}
+
+.articles {
+  padding-bottom: 30px;
+}
+
+.article {
+  border-bottom: 1px solid #000000;
+  padding: 20px 0;
+}
+
+.article h4 {
+  color: #000;
+}
+
+.article p {
+  margin-bottom: 0;
+}
+
+.article i {
+  display: block;
+}
+
+.article img {
+  width: 30%;
+}
+
+.container {
+  padding: 40px 0;
+}
+
+.container h1 {
+  width: 100%;
+}
+
+.pull-right {
+  right: 25px;
+  position: absolute;
+  top: 40px;
+}
+
+.pull-right-2 {
+  right: 200px;
+  position: absolute;
+  top: 40px;
+}
+
+#selectSources {
+  padding-bottom: 40px;
+}
+
+#selectSources .button {
+  margin: 15px 0;
+}
+
+.mySources .source {
+  width: 100%;
+}
+
+.source a {
+  text-transform: capitalize;
+}
+
+.sourceList {
+  padding-bottom: 60px;
+  column-count: 5;
+}
